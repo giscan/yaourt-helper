@@ -3,3 +3,6 @@ Helper for yaourt (Archlinux) which ignore to reinstall packages whereas they ar
 
 Usage : 
 yaourt-helper.sh PACKAGE #where PACKAGE is package you want to install
+
+
+Source : https://unix.stackexchange.com/questions/68626/make-yaourt-does-not-reinstall-when-already-installed
